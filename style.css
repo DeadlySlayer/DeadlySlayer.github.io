@@ -1,0 +1,12 @@
+html {
+    font-family: 'IBM Plex Sans', 'Arial', sans-serif;
+    font-size: 1.2rem;
+    scroll-behavior: smooth;
+    /*background-color: skyblue;*/
+}  
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color:pink;
+}
