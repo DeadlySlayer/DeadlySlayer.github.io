@@ -1,0 +1,35 @@
+h1{
+    display: flex;
+    justify-content: center;
+}  
+  
+h3{
+    display:flex;
+    justify-content: right;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+  }
+
+p {
+    font-size: 2em;
+    font-weight: 500;
+    display: flex;
+    justify-content: right;
+}
+pre {
+    font-size: 2em;
+    font-weight:500;
+    display: flex;
+    justify-content: center;
+}
+
+.GIF{
+    display:flex;
+    justify-content:center;
+}
+* {
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
