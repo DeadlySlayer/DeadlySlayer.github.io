@@ -37,7 +37,7 @@ img.fuck-you {
     margin-right:auto;
     float:none;
     display:flex;
-    justify=content:right;
+    justify-content: right;
 }
 
 img.animated-gif {
