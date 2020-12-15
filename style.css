@@ -1,59 +1,23 @@
-body {
-    background-color:black
-    }
-
-
-h1{
-    display: flex;
-    justify-content: center;
-}  
-  
-h3{
-    display:flex;
-    justify-content: right;
+#main-doc{
+    Margin-left:30%;
 }
 
-h2{
-    display: flex;
-    justify-content: center;
-  }
-
-p {
-    font-size: 2em;
-    font-weight: 500;
-    display: flex;
-    justify-content: center;
+.Grey-background{
+    background-color:#DCDCDC;
+    Padding:0.3em 1em;
+    border-radius: 5px;
 }
-pre {
-    font-size: 2em;
-    font-weight:500;
-    display: flex;
-    justify-content: center;
+.grey-background{
+    background-color:#DCDCDC;
+    Padding:1em 1em;
+    Border-radius: 5px;
 }
-
-img.fuck-you {
-    width: 200px;
-    margin-left:auto;
-    margin-right:auto;
-    float:none;
-    display:flex;
-    justify-content: right;
-}
-
-img.animated-gif {
-    width: 300px;
-    /* height: auto; */
-    margin-left:auto;
-    margin-right:auto;
-    float: none;
-    display: flex;
-    justify-content: center;
+.main-section{
 
 }
+#introduction{
 
+}
+#JavaScript_and_Java{
 
-* {
-    font-family: Comic Sans MS, cursive, sans-serif;
-    /* display: flex; */
-    /* justify-content: center; */
 }
