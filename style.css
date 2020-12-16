@@ -1,7 +1,9 @@
 #main-doc{
-    Margin-left:30%;
+    
+   
+    border:2px solid black;
 }
-
+s
 .Grey-background{
     background-color:#DCDCDC;
     Padding:0.3em 1em;
@@ -15,9 +17,45 @@
 .main-section{
 
 }
-#introduction{
 
-}
-#JavaScript_and_Java{
 
+#nav-link{
+    float:left;
+    font-size: 30px;
+    font-weight: 50px;
+    height:100%
+    
 }
+
+.nav-link{
+    color: black;
+    background-color:transparent;
+    text-decoration:none;
+    
+}
+#nav-bar{
+   
+    border:2px solid black;
+    
+}
+
+.grid-container{
+    display:grid;
+    grid-template-areas:
+    'footer main main'
+    'footer main main'
+    'footer main main'
+}   
+
+.main{
+    grid-area: main;
+}
+.skip{s
+    grid-area: footer;
+    padding: 5em 1em;
+    justify-content: space-between;
+}
+.margin{
+    margin-top: 5em;
+}
+
