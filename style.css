@@ -1,34 +1,161 @@
-.img{
+.smaller-div{
+    width:50%;
+}
+
+
+#img-Jimin{
     width: 20em;
     height:30em;
-    Border:2px solid pink;
+    Border:3px solid pink;
     float: left;
     padding:;
     
     
 }
+#img-V{
+    width: 20em;
+    height:30em;
+    Border:3px solid green;
+    float: right;
+    padding:;
+    
+}
+#img-jungkook{
+    width: 20em;
+    height:30em;
+    Border:3px solid purple;
+    float: left;
+    padding:;
+    
+}
+#img-namjoon{
+    width: 20em;
+    height:30em;
+    Border:3px solid blue;
+    float: right;
+    padding:;
+}
+#img-hoseok{
+    width: 20em;
+    height:30em;
+    Border:3px solid red;
+    float: left;
+    padding:;
+}
+#img-yoongi{
+    width: 20em;
+    height:30em;
+    Border:3px solid black;
+    float: right;
+    padding:;
+}
+#img-seokjin{
+    width: 20em;
+    height:30em;
+    Border:3px solid yellow;
+    float: left;
+    padding:;
+}
+
 #header{
     text-align: center;
     color: white;
 }
 #background-color{
-    background-color:purple;
+    background-color:#9966CC;
 }
-.text{
+#text-for-jimin{
     overflow-wrap:break-word;
-    width: 100%;
-    height:30%;
-    border:2px solid pink;
+    width: 1883px;
+    height:35em;
+    border:3px solid pink;
     color:white;
+    
 
 }
+#text-for-teahyoung{
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid green;
+    color:white;
+    
+}
+#text-for-jungkook{
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid Purple;
+    color:white;
+   
+}
+#text-for-namjoon {
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid blue;
+    color:white;
+   
+}
+#text-for-hoseok{
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid red;
+    color:white;
+}
+#text-for-yoongi{
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid black;
+    color:white;
+}
+#text-for-seokjin{
+    overflow-wrap:break-word;
+    width: 1883px;
+    height:35em;
+    border:3px solid yellow;
+    color:white;
+}
+
 .img1{
     width:20em;
     height:30em;
    
 }
 #Jimin-name{
-    margin:10px 120px;
+    margin:10px 750px;
     Color:pink;
     font-size: 40px;
+}
+#teahyoung-name{
+    margin: 10px 760px;
+    color:green;
+    font-size:40px;
+}
+#jungkook-name{
+    margin: 10px 685px;
+    color:Purple;
+    font-size:40px;
+}
+#namjoon-name{
+    margin: 10px 750px;
+    color:blue;
+    font-size:40px;
+}
+#hoseok-name{
+    margin: 10px 720px;
+    color:red;
+    font-size:40px;
+}
+#yoongi-name{
+    margin: 10px 760px;
+    color:black;
+    font-size:40px;
+}
+#seokjin-name{
+    margin: 10px 770px;
+    color:yellow;
+    font-size:40px;
 }
