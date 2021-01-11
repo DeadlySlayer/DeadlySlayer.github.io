@@ -1,3 +1,4 @@
+
 .smaller-div{
     width:50%;
 }
@@ -142,7 +143,7 @@
 #namjoon-name{
     margin: 10px 750px;
     color:blue;
-    font-size:40px;
+    fant-size:4px;
 }
 #hoseok-name{
     margin: 10px 720px;
@@ -159,3 +160,115 @@
     color:yellow;
     font-size:40px;
 }
+
+
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+#logo{
+    float: left;
+    width:100px;
+    height: 50px;
+    margin-top:-7px;
+    margin-left: 30px;
+    padding-left:560px;
+    display:block;
+}
+
+#Top-Of-Page{
+    background-color: #434547;
+    padding: 10px;
+    color: white;
+    width: 100%;
+    display: inline-flex;
+   
+    
+}
+.words{
+    padding: 10px 30px; 
+}
+.word{
+    padding: 10px 50px; 
+    padding-left:50px;
+}
+
+#title{
+    text-align:center;
+    height: 100%;
+    background-color: #777879;
+    padding: 10px;
+    font-size: 40px
+
+}
+#DOGO-PICTURE{
+    Float: left;
+    width: 300px;
+    height: 160px;
+    padding:;
+}
+.Text{
+    overflow-wrap:break-word;
+    background-color:;
+    width: auto;
+    height: auto;
+    font-size:21px;
+
+}
+
+.div-for-art{
+    width: 15em;
+    height:30em;
+    padding: 33px;
+    
+    
+
+}
+.outside-art-div{
+    background-color:#FFFF00;
+    height: 30em;
+    width: 300px;
+    float: left;
+    margin:35px;
+    
+}
+
+.Art-Text{
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+.Art-Div{
+    width: 100%
+}
+
+#background-color{  
+    background-color: white;
+    padding:0;
+    margin: 0;
+}
+
+div.sticky{
+    position: fixed;
+    Bottom: 10px;
+    border: solid red;
+    border-radius: 50px;
+    box-shadow: 0px 10px 8px;
+    height: 120px;
+    width:900px;
+    background-color: Yellow;
+    margin-left: 490px;
+
+}
+
+.Sticky-words{
+    Text-align: center;
+}
+
+
